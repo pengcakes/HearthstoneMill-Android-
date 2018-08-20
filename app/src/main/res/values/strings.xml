@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mill Calculator</string>
+    <string name="enter_text"><i>enter # here</i></string>
+    <string name="calculate">Calculate</string>
+    <string name="answer">Answer</string>
+    <string name="fatigue_count"># of Draws: </string>
+    <string name="next_fatigue_dmg">1st Fatigue DMG:</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sworddance.gg.hearthstonemill">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/coldlight"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/coldlight"
+        android:supportsRtl="true"
+        android:theme="@style/coldlightTheme">
+        <activity android:name=".MainActivity"
+            android:theme="@style/coldlightTheme"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
